@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Contenu du fichier 1 dans les branches fusionnées
 
+=======
+Contenu du fichier 1 dans les branches fusionnées
+>>>>>>> origin/jeff
 
 
 
